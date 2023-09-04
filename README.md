@@ -1,2 +1,2 @@
-# Using-graph-databases-to-cross-map-and-Query-Disease-ontologies
+# Using graph databases to cross map and Query Disease ontologies
 dissertation
