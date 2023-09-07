@@ -1,4 +1,6 @@
 # Using graph databases to cross map and Query Disease ontologies
+# Environment require: Python、Neo4j
+# Python library require:py2neo
 # Load diseases into Neo4j using Prepared_data
 Please download Prepared_data.csv
 Then Please run Using-graph-databases-to-cross-map-and-Query-Disease-ontologies.py to load dataset in python
